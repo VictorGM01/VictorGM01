@@ -4,9 +4,11 @@
 
 -👀 Estou interessado em desenvolver meus conhecimentos sobre programação
 
--💡 Atualmente estou aprendendo Python, especificamente a versão 3, na plataforma da Alura
+-💻 Estou cursando o ensino médio integrado ao técnico em Redes de Computadores no Instituto Federal de São Paulo
 
--🧠 Estou procurando colaborar em códigos Python
+-💡 Atualmente estou aprendendo Python, especificamente a versão 3, na plataforma da Alura e no IFSP
+
+-🧠 Prcuro colaborar em códigos Python
 
 
 <div>
