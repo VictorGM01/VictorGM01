@@ -8,7 +8,7 @@
 
 -💡 Atualmente estou aprendendo Python, especificamente a versão 3, na plataforma da Alura e no IFSP
 
--🧠 Prcuro colaborar em códigos Python
+-🧠 Procuro colaborar em códigos Python
 
 
 <div>
