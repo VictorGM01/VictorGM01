@@ -2,13 +2,11 @@
 
 -🙋‍♂️ Oi, Sou Victor Gabriel Marques
 
--👀 Estou interessado em desenvolver meus conhecimentos sobre programação
+-💭 Assuntos: Python, Data Science, Automação, POO, entre outros (vide repo "boas_vindas")
 
 -💻 Estou cursando o ensino médio integrado ao técnico em Redes de Computadores no Instituto Federal de São Paulo
 
--💡 Atualmente estou aprendendo Python, especificamente a versão 3, na plataforma da Alura e no IFSP
-
--🧠 Procuro colaborar em códigos Python
+-💡 Estou me aprofundando em Python3, aplicando essa fantástica linguagens para diversas soluções e diversas áreas
 
 
 <div>
