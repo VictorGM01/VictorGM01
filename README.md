@@ -2,7 +2,7 @@
 
 -🙋‍♂️ Oi, Sou Victor Gabriel Marques
 
--💭 Assuntos: Python, Data Science, Automação, POO, entre outros (vide repo "boas_vindas")
+-💭 Assuntos: Python, Data Science, Automação, Django, entre outros (vide repo "boas_vindas")
 
 -💻 Estou cursando o ensino médio integrado ao técnico em Redes de Computadores no Instituto Federal de São Paulo
 
