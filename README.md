@@ -2,9 +2,9 @@
 
 -🙋‍♂️ Oi, Sou Victor Gabriel Marques
 
--💭 Assuntos: Python, Data Science, Automação, Django, Segurança da Informação, entre outros (vide repo "boas_vindas")
+-💭 Assuntos: Python, Automação, Django, Segurança da Informação, Desenvolvimento Web, entre outros (vide repo "boas_vindas")
 
--💻 Estou cursando o ensino médio integrado ao técnico em Redes de Computadores no Instituto Federal de São Paulo
+-💻 Estou cursando o ensino técnico em Redes de Computadores integrado ao ensino médio no Instituto Federal de São Paulo
 
 -💡 Estou me aprofundando em Python3, aplicando essa fantástica linguagem para diversas soluções e diversas áreas
 
