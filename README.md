@@ -6,7 +6,7 @@
 
 -💻 Estou cursando o ensino técnico em Redes de Computadores integrado ao ensino médio no Instituto Federal de São Paulo
 
--💡 Estou me aprofundando em Python3, aplicando essa fantástica linguagem para diversas soluções e diversas áreas
+-💡 Atualmente estou me aprofundando no desenvolvimento back-end, principalmente com Python.
 
 
 <div>
