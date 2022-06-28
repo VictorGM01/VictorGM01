@@ -1,13 +1,14 @@
 ## Olá, Seja muito bem-vindo(a)!
 
--🙋‍♂️ Oi, Sou Victor Gabriel Marques
+-🙋‍♂️ Oi, me chamo Victor Gabriel Marques
 
--💭 Assuntos: Python, Automação, Django, Segurança da Informação, Desenvolvimento Web, entre outros (vide repo "boas_vindas")
+-💭 Assuntos: Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros ([veja meus repositórios](https://github.com/VictorGM01?tab=repositories))
 
--💻 Estou cursando o ensino técnico em Redes de Computadores integrado ao ensino médio no Instituto Federal de São Paulo
+-💻 Estou cursando Técnico em Redes de Computadores Integrado ao Ensino Médio no [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
 
--💡 Atualmente estou me aprofundando no desenvolvimento back-end, principalmente com Python.
+-💡 Atualmente estou me aprofundando no desenvolvimento back-end. Para isso, utilizo o Python como minha principal ferramenta.
 
+-🔬 Tema de Pesquisa: Segurança Cibernética
 
 <div>
   <a href="https://github.com/VictorGM01">
@@ -16,11 +17,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   <img align="center" alt="Jupyter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
   
 ##
