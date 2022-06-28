@@ -2,11 +2,11 @@
 
 -🙋‍♂️ Oi, me chamo Victor Gabriel Marques
 
--💭 Assuntos: Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros ([veja meus repositórios](https://github.com/VictorGM01?tab=repositories))
+-💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
 
 -💻 Estou cursando Técnico em Redes de Computadores Integrado ao Ensino Médio no [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
 
--💡 Atualmente estou me aprofundando no desenvolvimento back-end. Para isso, utilizo o Python como minha principal ferramenta.
+-💡 Atualmente estou me aprofundando no desenvolvimento back-end com Python.
 
 -🔬 Tema de Pesquisa: Segurança Cibernética
 
