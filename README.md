@@ -10,7 +10,7 @@
 
 -🔬 Tema de Pesquisa: Segurança Cibernética
 
--👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Técnica em Redes com especialização na área de front-end
+-👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Estudante de Redes com especialização na área de front-end
 
 <div>
   <a href="https://github.com/VictorGM01">
