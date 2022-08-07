@@ -1,6 +1,6 @@
-## Olá, Seja muito bem-vindo(a)!
-
--🙋‍♂️ Oi, me chamo Victor Gabriel Marques
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=28BC10&center=true&multiline=true&width=550&height=65&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Meu+nome+%C3%A9+Victor%2C+sou+um+programador+back-end" alt="Typing SVG" /></a>
+</div>
 
 -💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
 
