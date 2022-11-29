@@ -1,5 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28BC10&height=120&section=header"/>
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=28BC10&center=true&multiline=true&width=550&height=65&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!;Meu+nome+%C3%A9+Victor%2C+sou+um+programador+back-end" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=28BC10&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);Meu+nome+é+Victor+Gabriel+Marques;Sou+técnico+em+Redes+de+Computadores...;E+desenvolvedor+back-end+:%29" /></a>
 </div>
 
 -💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
@@ -14,9 +16,8 @@
 
 <div>
   <a href="https://github.com/VictorGM01">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorGM01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&langs_count=7&theme=gotham"/>
-  <img align="right" height="180" src="https://user-images.githubusercontent.com/86068797/176275202-9a5b7b9c-d345-4b10-a369-bbd2331abd02.png"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorGM01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline-block"><br>
