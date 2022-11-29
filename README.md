@@ -4,15 +4,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=28BC10&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);Meu+nome+é+Victor+Gabriel+Marques;Sou+técnico+em+Redes+de+Computadores...;E+desenvolvedor+back-end+:%29" /></a>
 </div>
 
--💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
-
--💻 Estou cursando Técnico em Redes de Computadores Integrado ao Ensino Médio no [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
-
--💡 Atualmente estou me aprofundando no desenvolvimento back-end com Python.
-
--🔬 Tema de Pesquisa: Segurança Cibernética
-
--👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Estudante de Redes com especialização na área de front-end
+* 💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
+* 💻 Estou cursando Técnico em Redes de Computadores Integrado ao Ensino Médio no [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
+* 💡 Atualmente estou me aprofundando no desenvolvimento back-end com Python.
+* 🔬 Tema de Pesquisa: Segurança Cibernética
+* 👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Estudante de Redes com especialização na área de front-end
 
 <div>
   <a href="https://github.com/VictorGM01">
