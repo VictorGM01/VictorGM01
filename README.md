@@ -5,9 +5,9 @@
 </div>
 
 * 💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
-* 💻 Estou cursando Técnico em Redes de Computadores Integrado ao Ensino Médio no [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
+* 🎓 Técnico em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
+* 🔬 Tema de Pesquisa (TCC): [Segurança Cibernética](https://github.com/VictorGM01/cyber_sec_info)
 * 💡 Atualmente estou me aprofundando no desenvolvimento back-end com Python.
-* 🔬 Tema de Pesquisa: Segurança Cibernética
 * 👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Estudante de Redes com especialização na área de front-end
 
 <div>
