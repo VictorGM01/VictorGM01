@@ -7,8 +7,7 @@
 * 💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
 * 🎓 Técnico em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
 * 🔬 Tema de Pesquisa (TCC): [Segurança Cibernética](https://github.com/VictorGM01/cyber_sec_info)
-* 💡 Atualmente estou me aprofundando no desenvolvimento back-end com Python.
-* 👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Estudante de Redes com especialização na área de front-end
+* 👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Técnica em Redes com especialização na área de front-end
 
 <div>
   <a href="https://github.com/VictorGM01">
@@ -30,7 +29,7 @@
 <div> 
   <a href="https://instagram.com/victor_gabriiielll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victormarques8801@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://linkedin.com/in/victor-gabriel-marques-4a327a208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/victor-marques-profile/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/VictorGM01/VictorGM01/blob/output/github-contribution-grid-snake.svg)
 
