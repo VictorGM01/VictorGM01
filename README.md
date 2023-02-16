@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=28BC10&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=28BC10&height=120&section=header"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=28BC10&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);Meu+nome+é+Victor+Gabriel+Marques;Sou+técnico+em+Redes+de+Computadores...;E+desenvolvedor+back-end+:%29" /></a>
@@ -6,8 +6,9 @@
 
 * 💭 [Assuntos](https://github.com/VictorGM01?tab=repositories): Python, Automação, Django, Cyber Security, Desenvolvimento Web, entre outros
 * 🎓 Técnico em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
-* 🔬 Tema de Pesquisa (TCC): [Segurança Cibernética](https://github.com/VictorGM01/cyber_sec_info)
-* 👩‍💻 Programming Pair: [Raphaela G.Ferraz](https://github.com/raphaelaferraz) - Técnica em Redes com especialização na área de front-end
+* 👨🏻‍🎓 Graduando em Sistemas de Informação pelo [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
+* 🔬 Pesquisa e Artigos Acadêmicos: [Cyber Security Information](https://github.com/VictorGM01/cyber_sec_info)
+* 👩‍💻 Programming Pair: [Raphaela G. Ferraz](https://github.com/raphaelaferraz) - Técnica em Redes com especialização na área de front-end
 
 <div>
   <a href="https://github.com/VictorGM01">
