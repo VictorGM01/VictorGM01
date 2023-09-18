@@ -4,17 +4,17 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=28BC10&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);Meu+nome+é+Victor+Gabriel+Marques;Sou+desenvolvedor+de+software+full+stack...;E+estou+em+constante+evolução!" /></a>
 </div>
 
-* 💭 [Assuntos](https://github.com/VictorGM01?tab=repositories):  Desenvolvimento Web, IA, Python, JS, Automação, Django, entre outros
-* 🎓 Técnico em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)
-* 👨🏻‍🎓 Graduando em Sistemas de Informação pelo [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
-* 🤖 Diretor de Desenvolvimento Web na [InAI](https://github.com/InAI-Inteli)
-* 🔬 Pesquisa e Artigos Acadêmicos: [Cyber Security Information](https://github.com/VictorGM01/cyber_sec_info)
-* 👩‍💻 Programming Pair: [Raphaela G. Ferraz](https://github.com/raphaelaferraz) - Técnica em Redes com especialização na área de front-end
+💭 [Assuntos](https://github.com/VictorGM01?tab=repositories):  Desenvolvimento Web, IA, Python, JS, Automação, Django, entre outros<br>
+🎓 Técnico em Redes de Computadores pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)<br>
+👨🏻‍🎓 Graduando em Sistemas de Informação pelo [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)<br>
+🤖 Diretor de Desenvolvimento Web na [InAI](https://github.com/InAI-Inteli)<br>
+🔬 Pesquisa e Artigos Acadêmicos: [Cyber Security Information](https://github.com/VictorGM01/cyber_sec_info)<br>
+👩‍💻 Programming Pair: [Raphaela G. Ferraz](https://github.com/raphaelaferraz) - Técnica em Redes com especialização na área de front-end<br>
 
 <div>
   <a href="https://github.com/VictorGM01">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VictorGM01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorGM01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline-block"><br>
