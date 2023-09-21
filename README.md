@@ -20,6 +20,10 @@
 -->
 
 <h2>Tecnologias & Linguagens</h2>
+<div>
+  <a href="https://github.com/VictorGM01">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 <div style="display: inline-block"><br>
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
