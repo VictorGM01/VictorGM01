@@ -11,12 +11,15 @@
 🔬 Pesquisa e Artigos Acadêmicos: [Cyber Security Information](https://github.com/VictorGM01/cyber_sec_info)<br>
 👩‍💻 Programming Pair: [Raphaela G. Ferraz](https://github.com/raphaelaferraz) - Técnica em Redes com especialização na área de front-end<br>
 
+<!--
 <div>
   <a href="https://github.com/VictorGM01">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorGM01&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGM01&layout=compact&langs_count=7&theme=gotham"/>
 </div>
+-->
 
+<h2>Tecnologias & Linguagens</h2>
 <div style="display: inline-block"><br>
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
