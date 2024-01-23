@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=28BC10&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004B56&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=28BC10&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);Meu+nome+é+Victor+Gabriel+Marques;Sou+desenvolvedor+de+software+full+stack...;E+estou+em+constante+evolução!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=268F77&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);Meu+nome+é+Victor+Gabriel+Marques;Sou+desenvolvedor+de+software+full+stack...;E+estou+em+constante+evolução!" /></a>
 </div>
 
-💭 [Assuntos](https://github.com/VictorGM01?tab=repositories):  Desenvolvimento Web, IA, Python, JS, Automação, Django, entre outros<br>
+💭 [Assuntos](https://github.com/VictorGM01?tab=repositories):  Desenvolvimento Web, IA, Python, JS, Automação, Data Science, entre outros<br>
 🎓 **Técnico em Redes de Computadores** pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)<br>
 👨🏻‍🎓 Graduando em **Engenharia de Software** pelo [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)<br>
 💼 Desenvolvedor de Sistemas de Informação<br>
