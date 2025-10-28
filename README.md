@@ -1,15 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=004B56&height=120&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=268F77&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem-vindo(a);Meu+nome+é+Victor+Gabriel+Marques;Sou+desenvolvedor+de+software+full+stack...;E+estou+em+constante+evolução!" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=268F77&center=true&vCenter=true&width=1000&lines=Hello,+welcome;My+name+is+Victor+Gabriel+Marques;I+am+a+full+stack+software+developer...;And+I'm+constantly+evolving!" /></a>
 </div>
 
-💭 [Assuntos](https://github.com/VictorGM01?tab=repositories):  Desenvolvimento Web, TypeScript, IA, Python, JS, Automação, Data Science, entre outros<br>
-🎓 **Técnico em Redes de Computadores** pelo [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)<br>
-👨🏻‍🎓 Graduando em **Engenharia de Software** pelo [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)<br>
-💼 Desenvolvedor **Full Stack**<br>
-🤖 Diretor de Desenvolvimento Web na [InAI](https://github.com/InAI-Inteli)<br>
-👩‍💻 Programming Pair: [Raphaela G. Ferraz](https://github.com/raphaelaferraz)<br>
+💭 [Topics](https://github.com/VictorGM01?tab=repositories):  Web Development, TypeScript, AI, Python, JS, Automation, Data Science, among others<br>
+🎓 **Computer Networking Technician** from [Instituto Federal de São Paulo](https://ptb.ifsp.edu.br/)<br>
+👨🏻‍🎓 **Software Engineering** undergraduate at [Inteli - Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)<br>
+💼 **Full Stack** Developer<br>
+🤖 Director of Web Development at [InAI](https://github.com/InAI-Inteli)<br>
 
 
 <div>
@@ -19,7 +18,7 @@
 </div>
 
 
-<h2>Tecnologias & Linguagens</h2>
+<h2>Technologies & Languages</h2>
 <div style="display: inline-block"><br>
   <!-- Back-end -->
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
